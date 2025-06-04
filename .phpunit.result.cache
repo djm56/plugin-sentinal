@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Test_Plugin_Sentinal::test_plugin_is_active":1},"times":{"Test_Plugin_Sentinal::test_wordpress_loaded":0.021,"Test_Plugin_Sentinal::test_plugin_is_active":0.003,"Test_Plugin_Sentinal::test_plugin_classes":0.002}}
